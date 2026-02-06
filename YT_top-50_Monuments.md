@@ -584,4 +584,3 @@
 
 ***
 
-You can drop this directly into a `.md` file; the headings and numbered lists are already in markdown format and ready to plug into your dataset manifest tooling.
