@@ -1,6 +1,6 @@
-# YouTube Urban Clips for FACTORJEPA (Denseworld)
+# Urban Clips for FACTORJEPA (Denseworld)
 
-Curated YouTube video sources for approximately 300 short landscape clips (5–10 seconds) covering Indian urban city scenes and semantic factors (scene type, weather, traffic, etc.) for the FACTORJEPA / Denseworld demo. Each row specifies a **target filename** and the **source YouTube video** from which you can cut one or more short segments.
+Curated YouTube video sources for approximately 300 short landscape clips (5-10 seconds) covering Indian urban city scenes and semantic factors (scene type, weather, traffic, etc.) for the FACTORJEPA / Denseworld demo. Each row specifies a **target filename** and the **source YouTube video** from which can be trimmed to more short segments.
 
 ---
 
